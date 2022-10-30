@@ -1,4 +1,4 @@
-# -nsert-on-project-patika.dev
+# -ınsert-on-project-patika.dev
 # Patika.dev Algoritma Proje
 
 ## Insertion Sort Project:
